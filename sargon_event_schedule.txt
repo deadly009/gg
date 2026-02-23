@@ -15,7 +15,6 @@
 1	Zealots Hideout	0	21:00
 1	Selket & Neith	0	21:30
 1	Isis & Anubis	0	22:00
-1	Haroeris & Seth	0	22:00
 1	Medusa	0	22:30
 1	Server Dungeon	0	23:00
 1	Defend The Tower	0	23:30
@@ -27,7 +26,6 @@
 1	Styria Clash	0	02:30
 1	Selket & Neith	0	03:00
 1	Isis & Anubis	0	03:30
-1	Haroeris & Seth	0	03:30
 1	Zealots Hideout	0	04:00
 1	Survival (Party)	0	04:30
 1	Battle Arena (Global)	0	05:00
