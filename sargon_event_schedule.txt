@@ -4,6 +4,7 @@
 1	Titan Uniques	0	19:00
 1	Jangan FTW (Chinese)	3	22:00
 1	Hotan FTW (Mixed)	4	22:00
+1	Sargon Boss (JOB)	0	13:10
 1	Last Man Standing	0	13:00
 1	Madness	0	14:00
 1	Styria Clash	0	15:00
