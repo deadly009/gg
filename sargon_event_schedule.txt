@@ -39,4 +39,3 @@
 1	Last Man Standing	0	12:00
 1	Survival (Guild) (CH)	3	21:30
 1	Survival (Guild)	4	21:30
-1	Sargon Boss (JOB)	0	08:13
