@@ -1,3 +1,15 @@
+1	Battle Arena (Random)	0	00:17
+1	Battle Arena (Random)	0	02:17
+1	Battle Arena (Random)	0	04:17
+1	Battle Arena (Random)	0	06:17
+1	Battle Arena (Random)	0	08:17
+1	Battle Arena (Random)	0	10:17
+1	Battle Arena (Random)	0	12:17
+1	Battle Arena (Random)	0	14:17
+1	Battle Arena (Random)	0	16:17
+1	Battle Arena (Random)	0	18:17
+1	Battle Arena (Random)	0	20:17
+1	Battle Arena (Random)	0	22:17
 1	Titan Uniques	0	01:00
 1	Titan Uniques	0	07:00
 1	Titan Uniques	0	13:00
