@@ -10,6 +10,15 @@
 1	Battle Arena (Random)	0	18:17
 1	Battle Arena (Random)	0	20:17
 1	Battle Arena (Random)	0	22:17
+1	Last Man Standing (Equalized)	0	13:00
+1	Last Man Standing (Equalized)	0	19:00
+1	Last Man Standing (Equalized)	0	09:00
+1	Last Man Standing (Equalized)	0	11:00
+1	Defend The Tower (Equalized)	0	17:00
+1	Defend The Tower (Equalized)	0	03:00
+1	Styria Clash (Equalized)	0	15:00
+1	Styria Clash (Equalized)	0	07:00
+1	Battle Arena (Global)	0	23:00
 1	Titan Uniques	0	01:00
 1	Titan Uniques	0	07:00
 1	Titan Uniques	0	13:00
