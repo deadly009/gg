@@ -1,4 +1,4 @@
-# Updated: 2026-03-09T17:07:34.362267Z
+# Updated: 2026-03-09T17:12:34.378141Z
 Service	EventName	Day	Time
 1	Battle Arena (Random)	0	00:17
 1	Battle Arena (Random)	0	02:17
@@ -12,10 +12,10 @@ Service	EventName	Day	Time
 1	Battle Arena (Random)	0	18:17
 1	Battle Arena (Random)	0	20:17
 1	Battle Arena (Random)	0	22:17
-1	Titan Uniques	0	01:00
-1	Titan Uniques	0	07:00
-1	Titan Uniques	0	13:00
-1	Titan Uniques	0	19:00
+1	Titan Uniques	0	01:12
+1	Titan Uniques	0	07:12
+1	Titan Uniques	0	13:12
+1	Titan Uniques	0	19:12
 1	Madness	0	14:00
 1	Styria Clash	0	15:00
 1	Defend The Tower	0	16:00
