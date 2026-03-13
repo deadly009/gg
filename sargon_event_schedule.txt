@@ -1,4 +1,4 @@
-# Updated: 2026-03-13T12:27:34.426436Z
+# Updated: 2026-03-13T12:32:34.436473Z
 Service	EventName	Day	Time
 1	Battle Arena (Random)	0	00:17
 1	Battle Arena (Random)	0	02:17
@@ -15,6 +15,7 @@ Service	EventName	Day	Time
 1	Jangan Fortress (CH)	7	21:00
 1	Hotan Fortress (EU/CH)	7	21:00
 1	Survival Guild (EU/CH)	7	20:30
+1	Sargon Boss (JOB)	0	02:31
 1	Titan Uniques	0	01:12
 1	Titan Uniques	0	07:12
 1	Titan Uniques	0	13:12
