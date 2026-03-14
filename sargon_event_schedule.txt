@@ -1,4 +1,4 @@
-# Updated: 2026-03-14T20:27:34.704402Z
+# Updated: 2026-03-14T20:32:34.702404Z
 Service	EventName	Day	Time
 1	Battle Arena (Random)	0	00:17
 1	Battle Arena (Random)	0	02:17
@@ -44,7 +44,7 @@ Service	EventName	Day	Time
 1	Selket & Neith	0	03:00
 1	Isis & Anubis	0	03:30
 1	Haroeris & Seth	0	03:30
-1	Zealots Hideout	0	04:00
+1	Special Trade (Togui)	0	04:00
 1	Survival (Party)	0	04:30
 1	Battle Arena (Global)	0	05:00
 1	Uniques Event	0	05:30
