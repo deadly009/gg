@@ -1,4 +1,4 @@
-# Updated: 2026-03-14T18:12:34.678641Z
+# Updated: 2026-03-14T18:17:34.675790Z
 Service	EventName	Day	Time
 1	Battle Arena (Random)	0	00:17
 1	Battle Arena (Random)	0	02:17
@@ -27,7 +27,7 @@ Service	EventName	Day	Time
 1	Survival (Solo)	0	17:00
 1	Madness	0	18:00
 1	Uniques Event	0	19:00
-1	Styria Clash	0	20:00
+1	Special Trade (Togui)	0	20:00
 1	Zealots Hideout	0	21:00
 1	Selket & Neith	0	21:30
 1	Isis & Anubis	0	22:00
