@@ -1,4 +1,4 @@
-# Updated: 2026-03-20T06:32:34.776266Z
+# Updated: 2026-03-20T06:37:34.773311Z
 Service	EventName	Day	Time
 1	Battle Arena (Random)	0	00:17
 1	Battle Arena (Random)	0	02:17
@@ -20,6 +20,7 @@ Service	EventName	Day	Time
 1	Titan Uniques	0	07:12
 1	Titan Uniques	0	13:12
 1	Titan Uniques	0	19:12
+1	Sargon Boss (JOB)	0	20:33
 1	Last Man Standing	0	13:00
 1	Madness	0	14:00
 1	Styria Clash	0	15:00
