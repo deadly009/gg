@@ -1,4 +1,4 @@
-# Updated: 2026-03-23T14:42:34.141278Z
+# Updated: 2026-03-23T14:47:34.153160Z
 Service	EventName	Day	Time
 1	Battle Arena (Random)	0	00:17
 1	Battle Arena (Random)	0	02:17
@@ -10,7 +10,7 @@ Service	EventName	Day	Time
 1	Battle Arena (Random)	0	14:17
 1	Battle Arena (Random)	0	16:17
 1	Battle Arena (Random)	0	18:17
-1	Battle Arena (Random)	0	20:17
+1	Battle Arena (Party)	0	20:17
 1	Battle Arena (Random)	0	22:17
 1	Jangan Fortress (CH)	7	21:00
 1	Hotan Fortress (EU/CH)	7	21:00
@@ -20,6 +20,8 @@ Service	EventName	Day	Time
 1	Titan Uniques	0	07:12
 1	Titan Uniques	0	13:12
 1	Titan Uniques	0	19:12
+1	Battle Arena (Party)	0	05:17
+1	Battle Arena (Party)	0	23:17
 1	Last Man Standing	0	13:00
 1	Madness	0	14:00
 1	Styria Clash	0	15:00
