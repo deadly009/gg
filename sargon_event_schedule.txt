@@ -1,4 +1,4 @@
-# Updated: 2026-04-05T18:12:34.754223Z
+# Updated: 2026-04-05T18:17:34.760723Z
 Service	EventName	Day	Time
 1	Battle Arena (Random)	0	00:17
 1	Battle Arena (Random)	0	02:17
@@ -24,6 +24,7 @@ Service	EventName	Day	Time
 1	Blizzard	0	12:07
 1	Blizzard	0	15:07
 1	PvP Tournament	5	22:00
+1	Sargon Boss (JOB)	0	08:15
 1	Titan Uniques	0	01:12
 1	Titan Uniques	0	07:12
 1	Titan Uniques	0	13:12
