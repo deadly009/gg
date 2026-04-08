@@ -1,4 +1,4 @@
-# Updated: 2026-04-08T14:27:34.197964Z
+# Updated: 2026-04-08T14:32:34.116887Z
 Service	EventName	Day	Time
 1	Battle Arena (Random)	0	00:17
 1	Battle Arena (Random)	0	02:17
@@ -64,4 +64,3 @@ Service	EventName	Day	Time
 1	Last Man Standing	0	09:00
 1	Madness	0	11:00
 1	Last Man Standing	0	12:00
-1	Sargon Boss (JOB)	0	16:30
