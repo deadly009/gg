@@ -1,4 +1,4 @@
-# Updated: 2026-05-03T00:52:34.490325Z
+# Updated: 2026-05-03T00:57:34.498281Z
 Service	EventName	Day	Time
 1	Battle Arena (Random)	0	00:17
 1	Battle Arena (Random)	0	02:17
@@ -15,6 +15,10 @@ Service	EventName	Day	Time
 1	Jangan Fortress (CH)	7	21:00
 1	Hotan Fortress (EU/CH)	7	21:00
 1	Survival Guild (EU/CH)	7	20:30
+1	Alchemy Event	0	02:18
+1	Alchemy Event	0	08:18
+1	Alchemy Event	0	14:18
+1	Alchemy Event	0	20:18
 1	Blizzard	0	18:07
 1	Blizzard	0	21:07
 1	Blizzard	0	00:07
