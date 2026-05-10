@@ -1,4 +1,4 @@
-# Updated: 2026-05-10T13:02:35.060968Z
+# Updated: 2026-05-10T13:07:35.034719Z
 Service	EventName	Day	Time
 1	Battle Arena (Random)	0	00:17
 1	Battle Arena (Random)	0	02:17
@@ -19,6 +19,7 @@ Service	EventName	Day	Time
 1	Alchemy Event	0	08:18
 1	Alchemy Event	0	14:18
 1	Alchemy Event	0	20:18
+1	Sargon Boss (JOB)	0	03:04
 1	Blizzard	0	18:07
 1	Blizzard	0	21:07
 1	Blizzard	0	00:07
